@@ -1,0 +1,4 @@
+!bin/project-requirements
+vendor
+bin
+composer.lock
